@@ -1,6 +1,7 @@
 
 |Variable                      |Class    |Description, Units and Levels                                                    |
 |------------------------------|---------|---------------------------------------------------------------------------------|
+|activity                      |factor   |Levels: walking, walking_upstairs, walking_downstairs, sitting, standing, laying |
 |subject                       |integer  |Assign ID's to the volunteers. Ranges from 1-30.                                 |
 | time_BodyAcc_mean_X          |numeric  |Calculated mean of all tBodyAcc-mean()-X observations of a corresponding subjectid and activity|
 | time_BodyAcc_mean_Y          |numeric  |Calculated mean of all tBodyAcc-mean()-Y observations of a corresponding subjectid and activity|
@@ -68,4 +69,3 @@
 | frequency_BodyBodyAccJerkMag_std   |numeric  |Calculated mean of all fBodyBodyAccJerkMag-std() observations of a corresponding subjectid and activity|
 | frequency_BodyBodyGyroMag_std      |numeric  |Calculated mean of all fBodyBodyGyroMag-std() observations of a corresponding subjectid and activity|
 | frequency_BodyBodyGyroJerkMag_std  |numeric  |Calculated mean of all fBodyBodyGyroJerkMag-std() observations of a corresponding subjectid and activity|
-|activity                            |factor   |Levels: walking, walking_upstairs, walking_downstairs, sitting, standing, laying |
