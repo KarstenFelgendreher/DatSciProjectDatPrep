@@ -10,5 +10,6 @@ https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-dat
 The raw data can be obtained from 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-+CodeBook.md contains the Codebook.
-+CleaningDataProject.R contains the script
+CodeBook.md contains the Codebook.
+
+CleaningDataProject.R contains the script
